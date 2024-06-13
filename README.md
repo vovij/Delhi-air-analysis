@@ -1,4 +1,4 @@
-# Delhi-air-analysis
+# Delhi air analysis
 This report aims to analyze pollution levels in Delhi using Python programming language.
 The analysis aims to investigate the levels of pollution for different pollutants, including CO,
 NO, NO2, O3, SO2, PM2.5, PM10 and NH3. The Delhi air analysis process includes cleaning
